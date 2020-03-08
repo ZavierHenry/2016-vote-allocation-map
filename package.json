@@ -1,0 +1,14 @@
+{
+  "name": "@zavierhenry/2016-vote-allocation-map-by-county",
+  "main": "8f2f18e7ddfa360f@2928.js",
+  "version": "2928.0.0",
+  "homepage": "https://observablehq.com/@zavierhenry/2016-vote-allocation-map-by-county",
+  "author": {
+    "name": "Zavier Henry",
+    "url": "https://observablehq.com/@zavierhenry"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
