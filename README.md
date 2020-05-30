@@ -1,6 +1,6 @@
 # 2016 Vote Allocation Map
 
-https://observablehq.com/@zavierhenry/2016-vote-allocation-map-by-county@2928
+https://observablehq.com/@zavierhenry/2016-vote-allocation-map-by-county@4631
 
 View this notebook in your browser by running a web server in this folder. For
 example:
