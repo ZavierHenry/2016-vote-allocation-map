@@ -31,3 +31,5 @@ const runtime = new Runtime();
 const main = runtime.module(define);
 main.value("foo").then(value => console.log(value));
 ~~~
+
+Repository for scraping the 2016 election data can be found [here](https://github.com/ZavierHenry/2016-election-scraper).
